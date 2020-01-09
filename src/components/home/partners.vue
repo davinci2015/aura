@@ -84,7 +84,7 @@
                                             <template v-slot:activator="{ on }">
                                         <v-img
                                             :src="require('@/assets/img/partners/gdgjalandhar.png')"
-                                            :lazy-src="require('@/assets/img/partners/gdgOsijek.png')"
+                                            :lazy-src="require('@/assets/img/partners/gdgjalandhar.png')"
                                             aspect-ratio="3.0"
                                             class="white"
                                             v-on="on"
