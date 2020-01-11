@@ -1,11 +1,11 @@
 [
     {
         "name":"Filip Babić",
-        "designation":"Android Developer / Video Instructor",
+        "designation":"Content Creator",
         "twitter":"https://twitter.com/filbabic",
         "linkedin":"https://www.linkedin.com/in/filip-babić-52b73a130",
         "github":"https://github.com/filbabic",
-        "profileImage":"https://s.gravatar.com/avatar/afcffe8b4e61adbeb28f44ce118ed934?s=80",
+        "profileImage":"",
         "website":"https://www.raywenderlich.com/u/filbabic"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
         "name":"Bruno Zorić",
-        "designation":"Machine Learning & HCI Researcher / Professor / Android Developer",
+        "designation":"ML, HCI & Android",
         "twitter":"https://twitter.com/zoric_bruno",
         "linkedin":"https://www.linkedin.com/in/zoricbruno",
         "github":"https://github.com/zoricbruno",
