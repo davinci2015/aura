@@ -15,11 +15,6 @@
         "link":"https://www.android.com/"
     },
     {
-        "TechName":"Actions On Google",
-        "image":"aog.png",
-        "link":"https://developers.google.com/actions/"
-    },
-    {
         "TechName":"Firebase",
         "image":"firebase.svg",
         "link":"https://firebase.google.com/"
@@ -28,5 +23,15 @@
         "TechName":"TensorFlow",
         "image":"tf.svg",
         "link":"https://www.tensorflow.org/"
+    },
+    {
+  		 "TechName":"Flutter",
+        "image":"flutter.png",
+        "link":"https://flutter.dev/"
+    },
+    {
+  		 "TechName":"React",
+        "image":"react.png",
+        "link":"https://reactjs.org/"
     }
 ]

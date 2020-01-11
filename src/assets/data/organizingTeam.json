@@ -1,47 +1,47 @@
 [
     {
-        "name":"Name",
-        "designation":"Development",
+        "name":"Filip Babić",
+        "designation":"Android Developer / Video Instructor",
+        "twitter":"https://twitter.com/filbabic",
+        "linkedin":"https://www.linkedin.com/in/filip-babić-52b73a130",
+        "github":"https://github.com/filbabic",
+        "profileImage":"https://s.gravatar.com/avatar/afcffe8b4e61adbeb28f44ce118ed934?s=80",
+        "website":"https://www.raywenderlich.com/u/filbabic"
+    },
+    {
+        "name":"Luka Kordić",
+        "designation":"Android Developer",
+        "twitter":"https://twitter.com/Lkordic9",
+        "linkedin":"https://www.linkedin.com/in/luka-kordić-4ab117153",
+        "github":"https://github.com/LukaKordic",
+        "profileImage":"",
+        "website":"https://www.cobeisfresh.com/"
+    },
+    {
+        "name":"Ivan Jurlina",
+        "designation":"Head of HR",
+        "twitter":"https://twitter.com/Jurlina_Ivan",
+        "linkedin":"https://www.linkedin.com/in/ivanjurlina",
+        "github":"N/A",
+        "profileImage":"",
+        "website":"https://www.cobeisfresh.com/"
+    },
+    {
+        "name":"Bruno Zorić",
+        "designation":"Machine Learning & HCI Researcher / Professor / Android Developer",
+        "twitter":"https://twitter.com/zoric_bruno",
+        "linkedin":"https://www.linkedin.com/in/zoricbruno",
+        "github":"https://github.com/zoricbruno",
+        "profileImage":"",
+        "website":"https://www.ferit.unios.hr/fakultet/imenik-djelatnika/bzoric1"
+    },
+    {
+        "name":"Goran Luketić",
+        "designation":"Android Developer",
         "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
+        "linkedin":"https://www.linkedin.com/in/goran-luketić-b256285a",
         "github":"https://github.com/",
         "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Management",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
+        "website":"https://www.cobeisfresh.com/"
     }
 ]
