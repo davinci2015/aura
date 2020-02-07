@@ -1,21 +1,21 @@
 {
-    "FeatureEventName":"",
-    "EventImage":"",
+    "FeatureEventName":"Android Academy 2020",
+    "EventImage":"gdg.png",
     "EventDate":{
-        "Date":"",
-        "Month":"",
-        "Year":""
+        "Date":"28",
+        "Month":"03",
+        "Year":"2020"
     },
     "EventTime":{
-        "StartTime":"",
-        "EndTime":""
+        "StartTime":"8:00",
+        "EndTime":"11:00"
     },
-    "EventVenue":"",
-    "EventVenueMapLink":"",
-    "EventWebsite":"",
-    "EventDescription":"",
+    "EventVenue":"FERIT Campus",
+    "EventVenueMapLink":"https://www.google.com/maps/place/Fakultet+elektrotehnike,+ra%C4%8Dunarstva+i+informacijskih+tehnologija+Osijek+-+Kampus+(FERIT+Osijek)/@45.5565765,18.7118757,15z/data=!4m2!3m1!1s0x0:0x4b900191a071a06f?sa=X&ved=2ahUKEwiyu4S4wr_nAhUF66QKHQ9ICWQQ_BIwE3oECA8QCA",
+    "EventWebsite":"http://softwarecity.hr/novosti/otvorene-prijave-android-dev-academy-vol-3/",
+    "EventDescription":"This year, we're holding the third edition of the Android Developer Academy! So far, over twenty people have found their first development jobs or internships, after our Academies, and this year, that could be your story, as well! :]  To apply for the Academy, follow the Registration link! If you're picked, we'll let you know about further steps of the process.",
     "MeetupLink":"",
-    "RegistrationLink":"",
+    "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSfJHEzdCci_gMU3jyogij-9G5SGj_mQQowZWLYuSkEy4vQ4_A/viewform",
     "FBEventPageURL":""
 }
 

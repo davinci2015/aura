@@ -21,6 +21,11 @@
       "name": "Slack",
       "link": "https://bit.ly/30smUF1.",
       "icon": "fab fa-slack"
+    },
+    {
+      "name": "Youtube",
+      "link": "https://www.youtube.com/channel/UCAXQuBMZ5B7f4thG5gO_3Rw",
+      "icon": "fab fa-youtube"
     }
   ],
   "wtmWebsite": "https://www.womentechmakers.com/",
